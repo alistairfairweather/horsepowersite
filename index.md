@@ -32,7 +32,7 @@ page_sections:
   image:
     image: "/uploads/VITA1255.jpeg"
     alt_text: Product Shot
-  background_image: "/uploads/VITA1255.jpeg"
+  background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
