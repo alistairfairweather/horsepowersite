@@ -18,8 +18,8 @@ page_sections:
   - link: "#blocks"
     link_text: Blocks
   cta:
-    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Import
+    url: https://westernshoppe.com/product/horse-power-2-5kg-new
+    button_text: Order Here
 - template: hero-banner-w-image
   block: hero-2
   slug: features
