@@ -30,9 +30,9 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: Find out more
   image:
-    image: "/uploads/VITA1255.jpeg"
+    image: ''
     alt_text: Product Shot
-  background_image: ''
+  background_image: "/uploads/VITA1255.jpeg"
 - template: content-feature
   block: feature-1
   media_alignment: Left
